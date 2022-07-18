@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "homework 9",
+			"path": "."
+		},
+		{
+			"name": "fonts",
+			"path": "..\\homework 8\\fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "homework 9"
+	}
+}
